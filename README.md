@@ -51,7 +51,7 @@
 
 #### 📂 데이터 셋
 
-> https://www.kaggle.com/datasets/andieminogue/newspaper-churn
+> https://github.com/adin786/bank_churn/tree/main
 
 - 은행 고객 이탈
 
