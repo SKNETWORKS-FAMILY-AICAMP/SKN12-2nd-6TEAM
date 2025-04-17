@@ -13,8 +13,14 @@
       </a><br />
     </td>
     <td align="center">
+      <a href="https://github.com/yonggyu-lee">
+        <img src="./readme_img/yonggyu.jpg" height="150" width="150" alt="yonggyu"/><br /><hr/>
+        이용규
+      </a><br />
+    </td>
+    <td align="center">
       <a href="https://github.com/sungil-cho">
-        <img src="./readme_img/sungil.png" height="150" width="150" alt="sungil"/><br /><hr/>
+        <img src="./readme_img/sungil.jpg" height="150" width="150" alt="sungil"/><br /><hr/>
         조성지
       </a><br />
     </td>
@@ -28,12 +34,6 @@
       <a href="https://github.com/seokwon-lee">
         <img src="./readme_img/seokwon.png" height="150" width="150" alt="seokwon"/><br /><hr/>
         이석원
-      </a><br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/yonggyu-lee">
-        <img src="./readme_img/yonggyu.png" height="150" width="150" alt="yonggyu"/><br /><hr/>
-        이용규
       </a><br />
     </td>
   </thead>
