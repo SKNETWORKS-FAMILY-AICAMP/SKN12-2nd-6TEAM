@@ -174,11 +174,6 @@
 | **카드등급**              | 고객의 카드 등급                        |
 | **성별**                  | 고객의 성별                             |
 
-
-## 데이터 시각화
-
-그림, 그림
-
 ## 모델별 분석
 ### 🤖 기본 모델
 | 모델명             |   f1(CV) |   accuracy(CV) |   precision(CV) |   roc_auc(CV) |   recall(CV) |   f1(Test) |   accuracy(Test) |   precision(Test) |   roc_auc(Test) |   recall(Test) |
