@@ -139,9 +139,15 @@
 
 <img src="./readme_img/preprocessing_code/08상관관계.png" >
 
+<img src="./readme_img/preprocessing_code/히트맵.png" >
+
 ### 📊 클래스 불균형
 
-<img src="./readme_img/preprocessing_code/09클래스뷸균형.png" >
+#### SMOTE 이용 오버샘플링
+<img src="./readme_img/preprocessing_code/09클래스불균형.png" >
+
+<img src="./readme_img/preprocessing_code/클래스불균형.png" >
+
 
 ## 데이터 구성
 
