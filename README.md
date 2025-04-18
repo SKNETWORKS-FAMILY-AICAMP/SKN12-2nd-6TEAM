@@ -111,7 +111,7 @@
 
 ### 📊 데이터 로드
 <img src="./readme_img/preprocessing_code/00데이터로드.png" >
-<img src="./readme_img/preprocessing_code/01한들컬럼화.png" >
+<img src="./readme_img/preprocessing_code/01한글컬럼화.png" >
 
 
 ### 📊 데이터 드랍
