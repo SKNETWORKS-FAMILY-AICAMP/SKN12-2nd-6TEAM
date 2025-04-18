@@ -116,27 +116,32 @@
 
 ### 📊 데이터 드랍
 
-그림
-
-### 📊 데이터 결측치 확인
-
-그림
-
-### 📊 데이터 이상치 확인
-
-그림
-
-### 📊 이탈 여부 라벨 인코딩
-
-그림
-
-### 📊 인코딩전 히트맵 시각화
-
-그림
+<img src="./readme_img/preprocessing_code/02불필요_컬럼.png" >
 
 ### 📊 인코딩_ 라벨 인코딩, 원 핫 인코딩
 
-그림
+#### 데이터_구간화
+
+<img src="./readme_img/preprocessing_code/03나이그룹화.png" >
+<img src="./readme_img/preprocessing_code/04카드보유기간.png" >
+<img src="./readme_img/preprocessing_code/05수입범주화.png" >
+<img src="./readme_img/preprocessing_code/06교육수준정수화.png" >
+
+#### 원-핫 인코딩
+
+<img src="./readme_img/preprocessing_code/10원_핫인코딩.png" >
+
+### 📊 데이터 이상치 확인 및 스케일링
+
+<img src="./readme_img/preprocessing_code/07이상치_스케일링.png" >
+
+### 📊 인코딩전 히트맵 시각화
+
+<img src="./readme_img/preprocessing_code/08상관관계.png" >
+
+### 📊 클래스 불균형
+
+<img src="./readme_img/preprocessing_code/09클래스뷸균형.png" >
 
 ## 데이터 구성
 
