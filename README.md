@@ -110,7 +110,7 @@
 ## EDA
 
 ### 📊 데이터 로드
-<img src="./readme_img/preprocessing_code/00데이터로드.png" height="150" width="150" >
+<img src="./readme_img/preprocessing_code/00데이터로드.png" height="150"  >
 
 
 
