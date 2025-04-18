@@ -135,6 +135,8 @@
 
 <img src="./readme_img/preprocessing_code/07이상치_스케일링.png" >
 
+<img src="./readme_img/preprocessing_code/박스플롯.png" >
+
 ### 📊 인코딩전 히트맵 시각화
 
 <img src="./readme_img/preprocessing_code/08상관관계.png" >
