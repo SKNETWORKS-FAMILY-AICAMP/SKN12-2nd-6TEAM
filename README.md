@@ -7,31 +7,31 @@
 <table>
   <thead>
     <td align="center">
-      <a href="https://github.com/seokwon-lee">
+      <a href="">
         <img src="./readme_img/seokwon.png" height="150" width="150" alt="seokwon"/><br /><hr/>
         이석원
       </a><br />
     </td>
     <td align="center">
-      <a href="https://github.com/sungho-kwon">
+      <a href="">
         <img src="./readme_img/sungho.png" height="150" width="150" alt="sungho"/><br /><hr/>
         권성호
       </a><br />
     </td>
     <td align="center">
-      <a href="https://github.com/yonggyu-lee">
+      <a href="">
         <img src="./readme_img/yonggyu.jpg" height="150" width="150" alt="yonggyu"/><br /><hr/>
         이용규
       </a><br />
     </td>
     <td align="center">
-      <a href="https://github.com/sungil-cho">
+      <a href="">
         <img src="./readme_img/sungil.jpg" height="150" width="150" alt="sungil"/><br /><hr/>
         조성지
       </a><br />
     </td>
     <td align="center">
-      <a href="https://github.com/ikyung-kim">
+      <a href="">
         <img src="./readme_img/ikyung.png" height="150" width="150" alt="ikyung"/><br /><hr/>
         김이경
       </a><br />
