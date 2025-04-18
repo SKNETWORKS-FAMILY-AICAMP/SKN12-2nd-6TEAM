@@ -135,20 +135,20 @@
 
 <img src="./readme_img/preprocessing_code/07이상치_스케일링.png" >
 
-<img src="./readme_img/preprocessing_code/박스플롯.png" >
+<img src="./readme_img/preprocessing_code/박스플롯.jpg" >
 
 ### 📊 인코딩전 히트맵 시각화
 
 <img src="./readme_img/preprocessing_code/08상관관계.png" >
 
-<img src="./readme_img/preprocessing_code/히트맵.png" >
+<img src="./readme_img/preprocessing_code/히트맵.jpg" >
 
 ### 📊 클래스 불균형
 
 #### SMOTE 이용 오버샘플링
 <img src="./readme_img/preprocessing_code/09클래스불균형.png" >
 
-<img src="./readme_img/preprocessing_code/클래스불균형.png" >
+<img src="./readme_img/preprocessing_code/클래스불균형.jpg" >
 
 
 ## 데이터 구성
